@@ -4,7 +4,7 @@ GPU miner for ETH,CKB,ETH-CKB,RVN,ETH-HNS,ETH-TRB
 
 # Download
 
-[Download here](https://github.com/damominer/damominer/releases)
+[Download here](https://github.com/damomine/damominer/releases)
 
 ## Contact Us
 
@@ -243,6 +243,10 @@ GPU miner,it supports Nvidia card ,and supports AMD graphics on RVN coin only.
 
 
 ## History
+
+### V4.3.3 (20220211)
+
+    Support eth IM Pool.
 
 ### V2.7.8 (20200515)
 
