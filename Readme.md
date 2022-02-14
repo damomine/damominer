@@ -65,12 +65,12 @@ GPU miner,it supports Nvidia card ,and supports AMD graphics on RVN coin only.
 
 ### Linux 
 
-    damominer: NVIDIA Driver version:>=418.87,cuda 10.1
+    damominer: NVIDIA Driver version:>=470.42,cuda 11.4
 
 ### Windows
 
-    damominer9: NVIDIA Driver version:>=385.54 cuda 9.0
-    damominer10: NVIDIA Driver version:>=418.96 cuda 10.1
+
+    damominer: NVIDIA Driver version:>=471.11 cuda 11.4
 
 ## Sample Usages
 
