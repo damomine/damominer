@@ -76,6 +76,7 @@ GPU miner,it supports Nvidia card ,and supports AMD graphics on RVN coin only.
 
 ### Coin:ETH
 
+- **Imool:** damominer -P stratum1+tcp://CP_test.auto1@127.0.0.1:3301 -A eth 
 - **f2pool:** damominer -P stratum1+tcp://0x43E5f72D6Ab08fB8034F0dFb34a480B9d256e53C.workname@cn.sparkpool.com:3333 -A eth
 - **sparkpool:** damominer -P stratum1+tcp://0x43E5f72D6Ab08fB8034F0dFb34a480B9d256e53C.workname@eth.f2pool.com:8008 -A eth  
 
